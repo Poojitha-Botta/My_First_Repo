@@ -1,0 +1,3 @@
+Name:Poojitha
+Course:BCA-A
+GitHub is a website where people store,share,and work together on code.
